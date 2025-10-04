@@ -17,4 +17,4 @@
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Event-Management-System.git
+   git clone https://github.com/DHARANITHANGAMANI03/Event-Management-System.git
